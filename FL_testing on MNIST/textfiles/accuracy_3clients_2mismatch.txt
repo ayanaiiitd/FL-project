@@ -1,0 +1,15 @@
+Round 1: Global Accuracy: 17.24%, Client1 Accuracy: 55.59%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 2: Global Accuracy: 14.78%, Client1 Accuracy: 47.79%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 3: Global Accuracy: 16.33%, Client1 Accuracy: 52.57%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 4: Global Accuracy: 17.96%, Client1 Accuracy: 57.61%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 5: Global Accuracy: 21.78%, Client1 Accuracy: 69.66%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 6: Global Accuracy: 28.94%, Client1 Accuracy: 93.10%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 7: Global Accuracy: 30.43%, Client1 Accuracy: 98.05%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 8: Global Accuracy: 30.69%, Client1 Accuracy: 98.91%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 9: Global Accuracy: 30.82%, Client1 Accuracy: 99.31%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 10: Global Accuracy: 30.92%, Client1 Accuracy: 99.59%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 11: Global Accuracy: 30.94%, Client1 Accuracy: 99.70%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 12: Global Accuracy: 30.95%, Client1 Accuracy: 99.74%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 13: Global Accuracy: 30.96%, Client1 Accuracy: 99.78%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 14: Global Accuracy: 30.96%, Client1 Accuracy: 99.83%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
+Round 15: Global Accuracy: 30.98%, Client1 Accuracy: 99.85%, Client2 Accuracy: 0.00%, Client3 Accuracy: 0.00%
