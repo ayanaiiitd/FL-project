@@ -1,4 +1,4 @@
-# FL-project
+# Heterogeneous Federated Learning- A Demo
 This research explores the application of FL to the MNIST dataset, focusing on comparative
 analysis under IID and non-IID data settings. The study involves two clients collaboratively
 training a machine learning model using the FedAvg algorithm, with the aim of preserving data
